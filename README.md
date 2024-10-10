@@ -17,11 +17,9 @@ Use your knowledge of object-oriented programming and class structure and design
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
 
-![UML Diagram for my project](Copy_of_UML_Diagram.png)
-
+![UML Diagram](image.png)
 ## Description
 
-In this project, I made a store which sells digital music files and vinyl discs. I chose this because of my love of music as well as believing there would be many approaches I could take to creating this. Most of my instance variables were booleans in order to make simplify my code. For my price calculators, I used the accessor method to perform the calculations and the mutator method automatically calls it.
+In this project, I made a store which sells digital music files and vinyl discs. I chose this because of my love of music as well as believing there would be many approaches I could take to creating this. Most of my instance variables were booleans in order to make simplify my code. For my price calculators, I used the accessor method to perform the calculations and the mutator method automatically calls it. Although I do not have user input, because my price variables are calculated and not inputted, my code is fully prepared for user input. In my code I also use 3 constructors rather than 2. A no argument constructor, a 4 argument constructor, and a 5 argument instructor. Because I have the same amount of instance variables in both subclasses these constructors do not overlap
 
